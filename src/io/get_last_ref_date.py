@@ -30,7 +30,7 @@ def main():
     ref_date = max(list_last_modified_at)
     print('last updated date is ', ref_date)
 
-    return ref_date '2025-01'
+    return '2025-01'
 
 
 if __name__ == '__main__':
