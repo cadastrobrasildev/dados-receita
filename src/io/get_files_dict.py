@@ -17,7 +17,7 @@ def main():
     :return: dict with urls from files as well as last modified date and size in bytes
     """
     # get last ref_date
-    ref_date = get_last_ref_date()
+    ref_date = '2025-01'
 
     # get page content
     _folder_open_date = 'dados_abertos_cnpj'
